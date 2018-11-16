@@ -2,6 +2,7 @@ syntax on
 colorscheme ir_black
 
 set nocompatible              " be iMproved, required
+set number
 filetype off                  " required
 
 " set the runtime path to include Vundle and initialize
