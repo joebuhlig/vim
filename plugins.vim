@@ -10,6 +10,7 @@ Plugin 'junegunn/fzf' " fuzzy search
 Plugin 'junegunn/fzf.vim'
 Plugin 'itchyny/lightline.vim' " statusline
 Plugin 'scrooloose/nerdtree' " file tree on left
+Plugin 'Xuyuanp/nerdtree-git-plugin' " show git status in Nerdtree
 Plugin 'chr4/nginx.vim' " syntax highlighting for nginx
 Plugin 'powerline/powerline'
 Plugin 'godlygeek/tabular' " required for vim-markdown
