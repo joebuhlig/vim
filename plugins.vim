@@ -17,7 +17,7 @@ Plugin 'godlygeek/tabular' " required for vim-markdown
 Plugin 'csexton/trailertrash.vim' " highlight trailing whitespace
 Plugin 'airblade/vim-gitgutter' " git status indicators
 Plugin 'pangloss/vim-javascript' " syntax highlighting for javascript
-Plugin 'plasticboy/vim-markdown' " syntax highlighting and commands for markdown
+" Plugin 'plasticboy/vim-markdown' " syntax highlighting and commands for markdown
 Plugin 'terryma/vim-multiple-cursors' " please let me use multiple cursors again
 Plugin 'reedes/vim-pencil'
 Plugin 'vim-ruby/vim-ruby'
