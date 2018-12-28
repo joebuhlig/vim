@@ -16,3 +16,5 @@ augroup pencil
   autocmd FileType markdown,mkd,md call pencil#init()
   autocmd FileType text         call pencil#init()
 augroup END
+
+autocmd FileType yml,yaml setlocal ts=2 sts=2 sw=2 expandtab
